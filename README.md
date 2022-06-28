@@ -40,7 +40,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2kk246&layout=compact)](https://github.com/2kk246/github-readme-stats)
 
-![2kk246's GitHub stats](https://github-readme-stats.vercel.app/api?username=2kk246&show_icons=true&theme=merko)
+![2kk246's GitHub stats](https://github-readme-stats.vercel.app/api?username=2kk246&show_icons=true&theme=dark)
   
 </div>
 
